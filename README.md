@@ -77,7 +77,7 @@ Multiple visualisations methods can be found in `visualise.py` in the `src` dire
 <td>Extracted point cloud from substrate</td>
 </tr>
 <tr>
-<td><img src="plots/dome_line.jpg" alt="Line" style="width: 250px;"/></td>
+<td><img src="plots/dome_in_line.jpg" alt="Line" style="width: 250px;"/></td>
 <td> <img src="plots/dome_scatter.jpg" alt="Scatter" style="width: 250px;"/> </td>
 <td> <img src="plots/pc.jpg" alt="Scatter" style="width: 250px;"/> </td>
 </tr>
