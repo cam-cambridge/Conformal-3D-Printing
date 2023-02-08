@@ -1,6 +1,6 @@
 # Conformal-3D-Printing
 
-Python based code designed for generating conformal 3D printing toolpath. 
+Python based gcode parser and manipulator designed for generating conformal 3D printing toolpath. 
 
 ## About
 
@@ -92,3 +92,8 @@ Multiple visualisations methods can be found in `visualise.py` in the `src` dire
 <td> <img src="plots/conformed_1.0_test_rect_absolute_scatter.jpg" alt="Scatter" style="width: 250px;"/> </td>
     </tr>
 </table>
+
+## ✍️ Authors <a name = "authors"></a>
+
+- [Douglas Brion](https://github.com/dougbrion)
+- [Zehao Ji] (https://github.com/Zehao-Ji)
